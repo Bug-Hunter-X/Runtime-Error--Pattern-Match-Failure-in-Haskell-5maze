@@ -1,0 +1,1 @@
+This repository demonstrates a common runtime error in Haskell: pattern match failure. The `head` function will fail if it encounters an empty list.  This example shows how to mitigate this error using pattern matching and the `maybe` function.
